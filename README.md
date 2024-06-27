@@ -10,12 +10,12 @@ educational institutions.
 
 ## Screenshots
 
-![Dashboard-Dark](https://github.com/Dark-Semicolon/campus-suit/assets/69071194/6888a3a1-d274-45ba-83c5-864a56e67320)
+![Faculty-Supervisor-Dashboard-Dark](https://github.com/Dark-Semicolon/campus-suit/assets/69071194/6888a3a1-d274-45ba-83c5-864a56e67320)
 
 ## Back-End <sub>`API & Faculty Supervisor Dashboard`</sub>
 [Back-End Repository](https://github.com/Dark-Semicolon/campus-suit-api)
 
-## Front-End <sub>`Main website + Admin, Client Dashboards`</sub>
+## Front-End <sub>`Main website + Admin & Client Dashboards`</sub>
 [Front-End Repository](https://github.com/Dark-Semicolon/campus-suit-front)
 
 ----
