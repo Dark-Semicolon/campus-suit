@@ -31,8 +31,8 @@
 # About The Project
 
 ![CampusSuit-Home](https://github.com/user-attachments/assets/7f8ffa73-92fc-442a-883a-1b878d9452b3)
-
-Graduation Project: SaaS Platform for Universities
+# Campus-Suit
+SaaS Platform for Universities
 Developed a comprehensive SaaS solution for universities, designed to streamline operations through three distinct dashboards and a mobile app:
 
 - University Manager Dashboard: Allows university managers to add universities, faculties, and teachers. Managers can also assign faculty manager accounts to handle faculty-level operations.
