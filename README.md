@@ -58,6 +58,8 @@ This project simplifies university management and improves the student experienc
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
+# Get Started
 ## Back-End <sub>`API & Faculty Supervisor Dashboard`</sub>
 [Back-End Repository](https://github.com/Dark-Semicolon/campus-suit-api)
 
