@@ -57,11 +57,10 @@ experience by centralizing all critical tasks in an easy-to-use interface.
 
 ### Built With
 
--   <img src="https://github.com/user-attachments/assets/f711bddb-697e-4994-83bb-aed12eeb18d8" width="120px">
--   <img src="https://github.com/user-attachments/assets/9de412e3-8a7a-4dd6-a61c-f5a035e96700" width="120px">
--   <img src="https://github.com/user-attachments/assets/02db25d3-3968-4e75-a8ef-605c69f536bf" width="120px">
--   <img src="https://github.com/user-attachments/assets/1bad7782-3277-40da-97d6-be1131dcfd29" width="120px">
--   <img src="https://github.com/user-attachments/assets/bf23b5b5-b6a3-44e0-a37e-c60cbf82fdee" width="120px">
+-   <img src="./screenShots/laravel.webp" width="120px">
+-   <img src="./screenShots/react.png" width="120px">
+-   <img src="./screenShots/reactRouter.jpg" width="120px">
+-   <img src="./screenShots/tailwind.jpg" width="120px">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,19 +105,19 @@ can visit the following dashboard links to login with the following emails.
 examples of how a project can be used.
 
 <h3>Home Page</h3>
-<img src="https://github.com/user-attachments/assets/c91c7ce6-19c6-46d4-be48-9fe40a035c2d" width="750px">
+<img src="./screenShots/CampusSuit-Home.png" width="750px">
 
 <h3>Client Profile</h3>
-<img src="https://github.com/user-attachments/assets/58dbef92-3d2e-4297-afea-5a50231d5321" width="750px">
+<img src="./screenShots/profile.png" width="750px">
 
 <h3>Faculty Dashboard</h3>
-<img src="https://github.com/user-attachments/assets/c98c0d07-d52a-4944-859a-4b99cfaf552b" width="750px">
+<img src="./screenShots/FacultyDetails.png" width="750px">
 
 <h3>Supervisor Dashboard</h3>
-<img src="https://github.com/user-attachments/assets/fcf4a8cc-c118-469c-b912-44bd47525783" width="750px">
+<img src="./screenShots/dashboard.png" width="750px">
 
 <h3>Admin Dashboard</h3>
-<img src="https://github.com/user-attachments/assets/6d0234c6-1e85-45c6-9d04-ed0c6cbb69cb" width="750px">
+<img src="./screenShots/adminDashboard.png" width="750px">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,15 +142,15 @@ create a pull request. You can also simply open an issue with the tag
 # Contributors:
 
 <a href="https://github.com/ahmedosamaaa/">
-  <img src="https://github.com/user-attachments/assets/48d93f38-078b-4dcb-8ef5-01d9eee389b8" alt="contributor" width="128"/>
+  <img src="./screenShots/osama.png" alt="contributor" width="128"/>
 </a>
   <p>Ahmed Osama : Front-End</p>
 <a href="https://github.com/Abdelrahman-awad-hub">
-  <img src="https://github.com/user-attachments/assets/1178706f-87fe-4974-bdbe-992ce990828a" alt="contributor" width="128"/>
+  <img src="./screenShots/awad.png" alt="contributor" width="128"/>
 </a>
  <p>Abdelrahman Awad : Front-End</p>
 <a href="https://github.com/mahmoud-faisal-hub">
-  <img src="https://github.com/user-attachments/assets/90817a15-ba6a-415f-a27e-2e7f6968cb1f" alt="contributor" width="128"/> 
+  <img src="./screenShots/faisl.png" alt="contributor" width="128"/> 
 </a>
  <p>Mahmoud Faisl : Back-End</p>
 
